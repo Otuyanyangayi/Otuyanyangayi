@@ -9,7 +9,6 @@ Otuya is a Front-end developer with a bachelors of science in computer science f
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/grace-otuya/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
-
 <a href="https://github.com/Otuyanyangayi" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/youtube-play.png" height="40" /></a>
 
