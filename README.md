@@ -1,7 +1,7 @@
  ### Hi there 👋 my name is Otuya
 
 ### About Me
-Otuya is a Front-end developer with a bachelors of science in computer science from St pauls University, limuru .I'm open to learning new things and getting involved in new languages and always open to new experiences.
+I am a Front-end web developer(React Js) with a bachelors of science in computer science from St pauls University, limuru .I'm open to learning new things and getting involved in new languages and always open to new experiences.
 
 
 
